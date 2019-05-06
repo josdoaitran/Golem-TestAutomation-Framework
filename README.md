@@ -11,8 +11,8 @@ Features:
 + Using Data Driven model for tests.
 + Parallel test execution.
 + API testing
-+ Aquaited with Selenium Grid, Run test with remoting mode.
-
++ Aquaited with Selenium Grid / services cloud, Run test with remoting mode.
++ It can be executed from Jenkins or any other CI tool
 
 ## 2. Install and set up
 
