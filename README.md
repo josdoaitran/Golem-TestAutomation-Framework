@@ -9,7 +9,9 @@ Features:
 
 + Use POM (Page object model / pattern)
 + Using Data Driven model for tests.
-+ 
++ Parallel test execution.
++ API testing
++ Aquaited with Selenium Grid, Run test with remoting mode.
 
 
 ## 2. Install and set up
