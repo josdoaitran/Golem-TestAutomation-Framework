@@ -7,6 +7,7 @@ Golem is a completed test automation tool for web browser testing
 
 Features:
 
++ Use POM (Page object model / pattern)
 
 ## 2. Install and set up
 
